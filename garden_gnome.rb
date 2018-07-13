@@ -2,7 +2,7 @@
 
 class GardenGnome
   
-  attr_accessor :name, :age
+  attr_accessor :name, :age, :gluten_allergy
   
   
 end
